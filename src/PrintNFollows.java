@@ -2,7 +2,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class printNFollows {
+public class PrintNFollows {
 
 	public static void main(String[] args) {
 		System.out.println(printNFollow(5, 'a', "") + printNFollow(5, 'b', ""));
